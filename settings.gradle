@@ -4,3 +4,4 @@ pluginManagement {
     }
 }
 rootProject.name = 'restaruant'
+include 'eatgo-api'
